@@ -9,3 +9,7 @@ Template da aplicação
 
 #### Como usar:
 >Na pasta raiz do projeto utilize o comando `yarn` para instalar todas as dependências do projeto, poderá observar que os resultados sao guiados por testes para executar os testes referentes aos repositórios use o comando `yarn teste __tests__/respositories.spec.js` e o mesmo comando para a parte de likes porem no arquivo  /likes.spec.js
+
+
+#### Demonstração:
+
